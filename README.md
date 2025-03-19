@@ -1,5 +1,5 @@
 # ai-tools
-List of all the AI tools and their features, price and pros and cons
+List of all the AI tools and their features, price and pros and cons (the list is not exhaustive)
 <h2>AI Writing Tools</h2>
 <ol>
   <li><a href="https://coolaisoftware.com/go/rytr/">Rytr</a> | <a href="https://coolaisoftware.com/rytr-me-ai-writer-review/">Read Rytr ME AI Review</a> | <a href="https://coolaisoftware.com/rytr-me-ai-writer-review/">Sign Up</a></li>
